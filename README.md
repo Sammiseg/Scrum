@@ -1,1 +1,7 @@
+Interpreting user needs begins with empathy—understanding not just what users ask for, but why they need it. Creating user stories helps bridge the gap between technical requirements and real-world goals. Each story centers on the user’s perspective, ensuring that every feature we develop serves a purpose. In the SNHU Travel project, we translated feedback like “I want to filter trips by region” into concise stories with clear outcomes, making it easier for the team to prioritize, build, and test exactly what users needed.
+
+When developing programs, I take an iterative, feedback-driven approach. Agile has taught me the value of starting small, checking in often, and being ready to pivot. Processes like daily stand-ups, backlog refinement, and sprint retrospectives help keep development grounded, collaborative, and responsive. I plan to continue using these practices in my future work—not just because they improve productivity, but because they foster transparency and trust across the team.
+
+Being a good team member in software development means more than just writing clean code. It means listening actively, communicating clearly, supporting your teammates, and staying open to feedback. A strong team isn’t one where everyone works the same way—it’s one where everyone respects each other’s roles and works toward a common goal. Through projects like SNHU Travel, I’ve learned that when a team shares ownership of both the process and the product, the work becomes more meaningful—and the results, more impactful.
+
 # Scrum
